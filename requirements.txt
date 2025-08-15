@@ -1,0 +1,16 @@
+git+https://github.com/openai/whisper.git
+torch
+torchaudio
+langchain
+langchain-core
+langchain-community
+langchain-groq
+speechrecognition
+sounddevice
+scipy
+python-dotenv
+huggingface_hub
+pyttsx3
+qrcode
+Pillow
+pyaudio
